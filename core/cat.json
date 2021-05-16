@@ -1,0 +1,18 @@
+{
+  "information_gathering" : "Сбор информации",
+  "vulnerability_scanner" : "Поиск уязвимости",
+  "exploitation_tools" : "Инструменты эксплуатации",
+  "wireless_testing" : "Тестирование беспроводных сетей",
+  "forensics_tools" : "Инструменты судебной экспертизы",
+  "web_hacking" : "Веб-хакерство",
+  "stress_testing" : "Стресс-тестирование",
+  "sniffing_spoofing" : "Sniffing & Spoofing",
+  "password_attack" : "Взлом паролей",
+  "maintaining_access" : "Удаленный доступ",
+  "ip_tracking" : "Инструменты IP-отслеживания",
+  "programming_language" : "Языки Программирования",
+  "ddos" : "DDOS Атака",
+  "web_server" : "Web Серверы",
+  "termux_os" : "Termux OS",
+  "Bednakov" : "Cicada_3301"
+}
